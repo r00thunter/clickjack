@@ -1,5 +1,5 @@
 # clickjack
-<img src="images.png" width="400">
+<img src="image.png" width="400">
 
 # Installation
     1. git clone https://https://github.com/machine1337/clickjack
